@@ -1,3 +1,4 @@
+# Quickstart Bootstrap
 Quick Start Bootstrap Full Stack Solution aims to help individual developers and small software companies to kick off their projects as fast as possible built on professional extendable architecture
 
 Quickstart Bootstrap utilizes cutting edge frameworks and libraries to deliver common functionalities out of the box in a standard way, these functionalities are needed by most of the software projects, and it consumes plenty of time to be implemented for every project
@@ -6,6 +7,7 @@ Quickstart Bootstrap utilizes cutting edge frameworks and libraries to deliver c
 Consider using Quickstart Bootstrap if you are:
 - Student building graduation project or assignment
 - Fresh developer into trying a full stack solution
+- Adventurous developer(s) needing a fast kick-off for a hackathon
 - Entrepreneur building a proof of concept
 - Company prototyping a new product
 
