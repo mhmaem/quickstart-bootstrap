@@ -1,10 +1,20 @@
 # Quickstart Bootstrap
+
 Quick Start Bootstrap Full Stack Solution aims to help individual developers and small software companies to kick off their projects as fast as possible built on professional extendable architecture
 
 Quickstart Bootstrap utilizes cutting edge frameworks and libraries to deliver common functionalities out of the box in a standard way, these functionalities are needed by most of the software projects, and it consumes plenty of time to be implemented for every project
 
+Quickstart Bootstrap is opinionated toward a short TTM (Time To Market), so it strives to have:
+
+- Fast setup
+- Easy extendability
+- Up-to-date compatible dependencies
+- High performance
+
 ## For Whom
+
 Consider using Quickstart Bootstrap if you are:
+
 - Student building graduation project or assignment
 - Fresh developer into trying a full stack solution
 - Adventurous developer(s) needing a fast kick-off for a hackathon
@@ -18,5 +28,8 @@ Consider using Quickstart Bootstrap if you are:
 |Requirements|- JDK 8 or 11<br>- Docker & Docker Compose<br>- Maven<br>- Modern IDE (VS Code recommended) |- Flutter Framework<br>- Modern IDE (Android Studio recommended) |
 
 ## Notes
-- As mentioned, Quickstart Bootstrap is for prototyping, it does not fit production deliverables
+
+- As mentioned, Quickstart Bootstrap is for prototyping, it does not fit to be a production deliverable
+- Because usually prototypes have short life span, so backward compatibility is not highly considered characteristic  
 - Currently mobile App target the Android platform only
+- No web frontend client yet (in progress)
