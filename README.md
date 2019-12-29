@@ -6,7 +6,7 @@ Quickstart Bootstrap utilizes cutting edge frameworks and libraries to deliver c
 
 Quickstart Bootstrap is opinionated toward a short TTM (Time To Market), so it strives to have:
 
-- Fast setup
+- Fast setup [wiki](https://github.com/mhmaem/quickstart-bootstrap/wiki)
 - Easy extendability
 - Up-to-date compatible dependencies
 - High performance
